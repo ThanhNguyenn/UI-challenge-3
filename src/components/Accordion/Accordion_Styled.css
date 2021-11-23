@@ -1,0 +1,18 @@
+.accordion--title {
+  display: flex;
+  justify-content: space-between;
+  padding: 13px 0px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-weight: 500;
+  color: #262832;
+}
+
+.accordion--content {
+  margin-top: 10px;
+  margin-left: 38px;
+  font-weight: 500;
+  font-size: 14px;
+  color: #1f2029;
+  word-spacing: 1px;
+}

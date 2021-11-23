@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+.header--title {
+  font-family: "Poppins", sans-serif;
+  color: #262832;
+  margin-bottom: 35px;
+}

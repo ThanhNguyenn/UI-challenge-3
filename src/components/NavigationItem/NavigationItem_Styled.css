@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.navigationItem--align-text {
+  cursor: pointer;
+  width: 80%;
+  padding: 15px 0px;
+  margin: 0px;
+  transition: 0.3s ease;
+  font-family: "Poppins", sans-serif;
+  display: inline-flex;
+  align-items: center;
+  padding-left: 25px;
+  margin-right: 5px;
+}
+
+.navigationItem--align-text:hover {
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+
+.navitionItem--margin-right-icon {
+  margin-left: 13px;
+}

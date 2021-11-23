@@ -1,0 +1,12 @@
+.navigation--container {
+  width: 367px;
+  height: 351px;
+  margin-top: 250px;
+  margin-left: 5%;
+  background-color: #ebedfc;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
